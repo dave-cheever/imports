@@ -21,7 +21,6 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071655851]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
     </item>
     <item>
       <g:id><![CDATA[LOTT_2072028036]]></g:id>
@@ -39,7 +38,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2072028036]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071124845]]></g:id>
@@ -59,7 +58,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071124845]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071124838]]></g:id>
@@ -77,7 +76,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071124838]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071069559]]></g:id>
@@ -95,7 +94,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071069559]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2727494117]]></g:id>
@@ -113,7 +112,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2727494117]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071070036]]></g:id>
@@ -131,7 +130,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071070036]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071096043]]></g:id>
@@ -149,7 +148,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071096043]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071096036]]></g:id>
@@ -167,7 +166,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071096036]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071096029]]></g:id>
@@ -185,7 +184,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071096029]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071069542]]></g:id>
@@ -203,7 +202,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071069542]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071107404]]></g:id>
@@ -221,7 +220,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071107404]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071107442]]></g:id>
@@ -239,7 +238,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071107442]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-      <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+      
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071106766]]></g:id>
@@ -257,7 +256,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071106766]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071080561]]></g:id>
@@ -275,7 +274,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071080561]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
     </item>
     <item>
       <g:id><![CDATA[LOTT_2071666918]]></g:id>
@@ -293,7 +292,7 @@
       <g:brand><![CDATA[]]></g:brand>
       <g:mpn><![CDATA[LOTT_2071666918]]></g:mpn>
       <g:gtin><![CDATA[]]></g:gtin>
-	  <aggregation><![CDATA[test-aggregation-1]]></aggregation>
+	  
 	  
     </item>
   </channel>
